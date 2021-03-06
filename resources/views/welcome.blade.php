@@ -51,7 +51,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.html" class="logo">
-                            AhemdAlico
+                            <img style="width: 130px" src="assets/images/Ahmed Alico.png" alt="">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
@@ -269,7 +269,7 @@ https://templatemo.com/tm-540-lava-landing-page
                 <div class="center-heading center-edit">
                     <h2>Our Main <em>Crops</em></h2>
                 </div>
-                <div class="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
+                <div class="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big fix-width"
                     data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
 
                     <div class="owl-carousel owl-theme">
@@ -382,7 +382,7 @@ https://templatemo.com/tm-540-lava-landing-page
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <fieldset>
-                                            <input name="email" type="email" id="email" placeholder="E-Mail Address"
+                                            <input name="email" type="text" id="email" placeholder="E-Mail Address"
                                                 required="" style="background-color: rgba(250,250,250,0.3);">
                                         </fieldset>
                                     </div>
@@ -404,7 +404,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     </div>
                     <!-- ***** Contact Form End ***** -->
                     <div class="right-content col-lg-6 col-md-12 col-sm-12">
-                        <h2>Ahmed Ali Co.</h2>
+                        <img style="width: 200px" src="assets/images/Black%20Version.png" alt="">
                         <h3>CONTACT US </h3>
                         <em>Address: </em> Kafrelshikh, Egypt<br>
                         <em>BO Box: </em> 33711<br>
@@ -414,14 +414,21 @@ https://templatemo.com/tm-540-lava-landing-page
                         <em>Phones:</em>00201007526190<br>
                         <span>00201002664090</span><br>
                         <span>00201004415479</span><br>
+                        <a href="https://maps.app.goo.gl/4E72MVqtz2a6LouR6"><img src="assets/images/map.png" alt=""
+                                style="width: 30px"> Find us on Google Map</a><br>
                         <a rel="nofollow" href="#" target="_parent">contact</a> page
                         for more detail.</p>
                         <ul class="social">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/Ahmed-Ali-Co-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-977248165632310
+"><i class="fa fa-facebook"></i></a></li>
+
+                            <li><a href="https://twitter.com/AhmedAliCo3
+"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/ahmedalico/"><i class="fa fa-linkedin"></i></a>
+                            </li>
                             <!--
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-rss"></i></a></li>
+                            <li><a href=""><i class="fa fa-rss"></i></a></li>
+
                             <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
                         </ul>
                     </div>

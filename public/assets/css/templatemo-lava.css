@@ -166,7 +166,7 @@ a.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #f4813f;
+  background-color: #2ecc71;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -178,7 +178,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #f1556a;
+  background-color: #0de6bd;
 }
 
 button.main-button {
@@ -561,7 +561,7 @@ header
     padding: 0px 15px;
     height: 80px;
     box-shadow: none;
-    text-align: center;
+    text-align: left;
   }
   .header-area .container {
     padding: 0px;
@@ -606,7 +606,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fba70b!important;
+    color: #2ecc71!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -645,9 +645,10 @@ header
   .header-area .main-nav .nav {
     display: flex !important;
   }
+    .fix-width{
+        max-width: 99.3%
+    }
 }
-
-
 /* 
 ---------------------------------------------
 welcome
@@ -1002,6 +1003,7 @@ footer .right-content h2{
     color:#121212
 }
 footer .right-content h3{
+    font-size: 25px;
     padding: 10px 0
 }
 footer {
@@ -1098,7 +1100,7 @@ footer .right-content {
 }
 
 .footer-content .right-content a:hover {
-  color: #0de6bd;
+  color: #121212;
 }
 
 footer .social {
@@ -1133,11 +1135,10 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #121212;
-  border-color: #121212;
-  color: #fff;
+  background-color: #0de6bd;
+  border-color: #0de6bd;
+  
 }
-
 footer .copyright {
   margin-top: 10px;
   font-weight: 400;
